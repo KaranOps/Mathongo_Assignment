@@ -44,6 +44,33 @@ exports.calculateCosineSimilarity = (vecA, vecB) => {
     }
 };
 
+exports.manhattanDistance = (vecA, vecB) => {
+    try {
+        if (!Array.isArray(vecA) || !Array.isArray(vecB)) {
+            throw new Error('Input vectors must be arrays');
+        }
+        if (vecA.length !== vecB.length) {
+            throw new Error('Input vectors must be of the same length');
+        }
+        let sum = 0;
+        for (let i = 0; i < vecA.length; i++) {
+            sum += Math.abs(vecA[i] - vecB[i]);
+        }
+
+        const x = sum; 
+        const sim = (2 / (1 + Math.exp(-x))) - 1;
+        return {
+            success: true,
+            distance: sim
+        };
+    } catch (err) {
+        return {
+            success: false,
+            error: 'Manhattan distance calculation failed',
+            details: err.message
+        };
+    }
+};
 
 // Compare multiple questions and find the most similar ones
 exports.findMostSimilar = (targetVector, candidateVectors) => {
