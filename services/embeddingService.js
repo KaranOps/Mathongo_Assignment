@@ -20,7 +20,6 @@ exports.getEmbedding = async (text) => {
         const model = initializeGemini();
         const result = await model.embedContent(text);
         
-        // Return the embedding vector
         return {
             success: true,
             embedding: result.embedding.values

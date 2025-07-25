@@ -1,0 +1,436 @@
+Question1,Question2,Similarity_Score,Is_Replica
+"What is the derivative of x^2 with respect to x?","Find the rate of change of x squared with respect to x.",0.7916,false
+"What is the derivative of x^2 with respect to x?","Calculate the first derivative of the function f(x) = x^2.",0.8869,true
+"What is the derivative of x^2 with respect to x?","What is the acceleration due to gravity on Earth?",0.6379,false
+"What is the derivative of x^2 with respect to x?","Find the value of g (gravitational acceleration) on Earth's surface.",0.6391,false
+"What is the derivative of x^2 with respect to x?","What is the formula for kinetic energy?",0.6688,false
+"What is the derivative of x^2 with respect to x?","Express the kinetic energy of a moving object in terms of mass and velocity.",0.6601,false
+"What is the derivative of x^2 with respect to x?","State the law of conservation of energy.",0.631,false
+"What is the derivative of x^2 with respect to x?","Energy can neither be created nor destroyed, only transformed from one form to another.",0.5483,false
+"What is the derivative of x^2 with respect to x?","What is the molecular formula of water?",0.5995,false
+"What is the derivative of x^2 with respect to x?","Write the chemical formula for H2O.",0.6345,false
+"What is the derivative of x^2 with respect to x?","What are the constituent elements of water molecule?",0.5822,false
+"What is the derivative of x^2 with respect to x?","Define photosynthesis in plants.",0.6,false
+"What is the derivative of x^2 with respect to x?","Explain the process by which plants convert sunlight into chemical energy.",0.5685,false
+"What is the derivative of x^2 with respect to x?","How do plants make their own food using sunlight?",0.5302,false
+"What is the derivative of x^2 with respect to x?","What is the speed of light in vacuum?",0.5787,false
+"What is the derivative of x^2 with respect to x?","Find the velocity of electromagnetic radiation in free space.",0.5841,false
+"What is the derivative of x^2 with respect to x?","State Newton's first law of motion.",0.6223,false
+"What is the derivative of x^2 with respect to x?","An object at rest stays at rest unless acted upon by an external force.",0.6074,false
+"What is the derivative of x^2 with respect to x?","What is the principle of inertia as stated by Newton?",0.6221,false
+"What is the derivative of x^2 with respect to x?","Define pH scale in chemistry.",0.6014,false
+"What is the derivative of x^2 with respect to x?","Explain the logarithmic scale used to measure acidity and alkalinity.",0.6103,false
+"What is the derivative of x^2 with respect to x?","What is the unit of electric current?",0.6396,false
+"What is the derivative of x^2 with respect to x?","Name the SI base unit for measuring flow of electric charge.",0.6066,false
+"What is the derivative of x^2 with respect to x?","Current is measured in which unit in the International System?",0.5799,false
+"What is the derivative of x^2 with respect to x?","What is the function of mitochondria in cells?",0.5795,false
+"What is the derivative of x^2 with respect to x?","Describe the role of mitochondria as powerhouse of the cell.",0.5675,false
+"What is the derivative of x^2 with respect to x?","How do mitochondria produce ATP energy in cellular respiration?",0.5598,false
+"What is the derivative of x^2 with respect to x?","What is the atomic number of carbon?",0.5713,false
+"What is the derivative of x^2 with respect to x?","Carbon has how many protons in its nucleus?",0.5372,false
+"Find the rate of change of x squared with respect to x.","Calculate the first derivative of the function f(x) = x^2.",0.7837,false
+"Find the rate of change of x squared with respect to x.","What is the acceleration due to gravity on Earth?",0.6153,false
+"Find the rate of change of x squared with respect to x.","Find the value of g (gravitational acceleration) on Earth's surface.",0.6748,false
+"Find the rate of change of x squared with respect to x.","What is the formula for kinetic energy?",0.6453,false
+"Find the rate of change of x squared with respect to x.","Express the kinetic energy of a moving object in terms of mass and velocity.",0.6865,false
+"Find the rate of change of x squared with respect to x.","State the law of conservation of energy.",0.6371,false
+"Find the rate of change of x squared with respect to x.","Energy can neither be created nor destroyed, only transformed from one form to another.",0.5805,false
+"Find the rate of change of x squared with respect to x.","What is the molecular formula of water?",0.5394,false
+"Find the rate of change of x squared with respect to x.","Write the chemical formula for H2O.",0.6171,false
+"Find the rate of change of x squared with respect to x.","What are the constituent elements of water molecule?",0.4988,false
+"Find the rate of change of x squared with respect to x.","Define photosynthesis in plants.",0.563,false
+"Find the rate of change of x squared with respect to x.","Explain the process by which plants convert sunlight into chemical energy.",0.5539,false
+"Find the rate of change of x squared with respect to x.","How do plants make their own food using sunlight?",0.4843,false
+"Find the rate of change of x squared with respect to x.","What is the speed of light in vacuum?",0.5706,false
+"Find the rate of change of x squared with respect to x.","Find the velocity of electromagnetic radiation in free space.",0.661,false
+"Find the rate of change of x squared with respect to x.","State Newton's first law of motion.",0.644,false
+"Find the rate of change of x squared with respect to x.","An object at rest stays at rest unless acted upon by an external force.",0.6397,false
+"Find the rate of change of x squared with respect to x.","What is the principle of inertia as stated by Newton?",0.6113,false
+"Find the rate of change of x squared with respect to x.","Define pH scale in chemistry.",0.5663,false
+"Find the rate of change of x squared with respect to x.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5866,false
+"Find the rate of change of x squared with respect to x.","What is the unit of electric current?",0.6258,false
+"Find the rate of change of x squared with respect to x.","Name the SI base unit for measuring flow of electric charge.",0.6042,false
+"Find the rate of change of x squared with respect to x.","Current is measured in which unit in the International System?",0.5767,false
+"Find the rate of change of x squared with respect to x.","What is the function of mitochondria in cells?",0.5304,false
+"Find the rate of change of x squared with respect to x.","Describe the role of mitochondria as powerhouse of the cell.",0.5466,false
+"Find the rate of change of x squared with respect to x.","How do mitochondria produce ATP energy in cellular respiration?",0.5226,false
+"Find the rate of change of x squared with respect to x.","What is the atomic number of carbon?",0.5214,false
+"Find the rate of change of x squared with respect to x.","Carbon has how many protons in its nucleus?",0.4961,false
+"Calculate the first derivative of the function f(x) = x^2.","What is the acceleration due to gravity on Earth?",0.6166,false
+"Calculate the first derivative of the function f(x) = x^2.","Find the value of g (gravitational acceleration) on Earth's surface.",0.6874,false
+"Calculate the first derivative of the function f(x) = x^2.","What is the formula for kinetic energy?",0.6497,false
+"Calculate the first derivative of the function f(x) = x^2.","Express the kinetic energy of a moving object in terms of mass and velocity.",0.6861,false
+"Calculate the first derivative of the function f(x) = x^2.","State the law of conservation of energy.",0.638,false
+"Calculate the first derivative of the function f(x) = x^2.","Energy can neither be created nor destroyed, only transformed from one form to another.",0.5785,false
+"Calculate the first derivative of the function f(x) = x^2.","What is the molecular formula of water?",0.5675,false
+"Calculate the first derivative of the function f(x) = x^2.","Write the chemical formula for H2O.",0.6601,false
+"Calculate the first derivative of the function f(x) = x^2.","What are the constituent elements of water molecule?",0.5227,false
+"Calculate the first derivative of the function f(x) = x^2.","Define photosynthesis in plants.",0.5745,false
+"Calculate the first derivative of the function f(x) = x^2.","Explain the process by which plants convert sunlight into chemical energy.",0.5574,false
+"Calculate the first derivative of the function f(x) = x^2.","How do plants make their own food using sunlight?",0.4749,false
+"Calculate the first derivative of the function f(x) = x^2.","What is the speed of light in vacuum?",0.5624,false
+"Calculate the first derivative of the function f(x) = x^2.","Find the velocity of electromagnetic radiation in free space.",0.6473,false
+"Calculate the first derivative of the function f(x) = x^2.","State Newton's first law of motion.",0.6982,false
+"Calculate the first derivative of the function f(x) = x^2.","An object at rest stays at rest unless acted upon by an external force.",0.6553,false
+"Calculate the first derivative of the function f(x) = x^2.","What is the principle of inertia as stated by Newton?",0.6163,false
+"Calculate the first derivative of the function f(x) = x^2.","Define pH scale in chemistry.",0.5916,false
+"Calculate the first derivative of the function f(x) = x^2.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5992,false
+"Calculate the first derivative of the function f(x) = x^2.","What is the unit of electric current?",0.5949,false
+"Calculate the first derivative of the function f(x) = x^2.","Name the SI base unit for measuring flow of electric charge.",0.6166,false
+"Calculate the first derivative of the function f(x) = x^2.","Current is measured in which unit in the International System?",0.5426,false
+"Calculate the first derivative of the function f(x) = x^2.","What is the function of mitochondria in cells?",0.5372,false
+"Calculate the first derivative of the function f(x) = x^2.","Describe the role of mitochondria as powerhouse of the cell.",0.5374,false
+"Calculate the first derivative of the function f(x) = x^2.","How do mitochondria produce ATP energy in cellular respiration?",0.5237,false
+"Calculate the first derivative of the function f(x) = x^2.","What is the atomic number of carbon?",0.5201,false
+"Calculate the first derivative of the function f(x) = x^2.","Carbon has how many protons in its nucleus?",0.5014,false
+"What is the acceleration due to gravity on Earth?","Find the value of g (gravitational acceleration) on Earth's surface.",0.8703,true
+"What is the acceleration due to gravity on Earth?","What is the formula for kinetic energy?",0.7082,false
+"What is the acceleration due to gravity on Earth?","Express the kinetic energy of a moving object in terms of mass and velocity.",0.7015,false
+"What is the acceleration due to gravity on Earth?","State the law of conservation of energy.",0.6634,false
+"What is the acceleration due to gravity on Earth?","Energy can neither be created nor destroyed, only transformed from one form to another.",0.6011,false
+"What is the acceleration due to gravity on Earth?","What is the molecular formula of water?",0.6008,false
+"What is the acceleration due to gravity on Earth?","Write the chemical formula for H2O.",0.6031,false
+"What is the acceleration due to gravity on Earth?","What are the constituent elements of water molecule?",0.5574,false
+"What is the acceleration due to gravity on Earth?","Define photosynthesis in plants.",0.5665,false
+"What is the acceleration due to gravity on Earth?","Explain the process by which plants convert sunlight into chemical energy.",0.5627,false
+"What is the acceleration due to gravity on Earth?","How do plants make their own food using sunlight?",0.5579,false
+"What is the acceleration due to gravity on Earth?","What is the speed of light in vacuum?",0.69,false
+"What is the acceleration due to gravity on Earth?","Find the velocity of electromagnetic radiation in free space.",0.6902,false
+"What is the acceleration due to gravity on Earth?","State Newton's first law of motion.",0.7016,false
+"What is the acceleration due to gravity on Earth?","An object at rest stays at rest unless acted upon by an external force.",0.681,false
+"What is the acceleration due to gravity on Earth?","What is the principle of inertia as stated by Newton?",0.7285,false
+"What is the acceleration due to gravity on Earth?","Define pH scale in chemistry.",0.6056,false
+"What is the acceleration due to gravity on Earth?","Explain the logarithmic scale used to measure acidity and alkalinity.",0.6053,false
+"What is the acceleration due to gravity on Earth?","What is the unit of electric current?",0.6599,false
+"What is the acceleration due to gravity on Earth?","Name the SI base unit for measuring flow of electric charge.",0.6282,false
+"What is the acceleration due to gravity on Earth?","Current is measured in which unit in the International System?",0.6179,false
+"What is the acceleration due to gravity on Earth?","What is the function of mitochondria in cells?",0.5984,false
+"What is the acceleration due to gravity on Earth?","Describe the role of mitochondria as powerhouse of the cell.",0.5687,false
+"What is the acceleration due to gravity on Earth?","How do mitochondria produce ATP energy in cellular respiration?",0.5975,false
+"What is the acceleration due to gravity on Earth?","What is the atomic number of carbon?",0.6135,false
+"What is the acceleration due to gravity on Earth?","Carbon has how many protons in its nucleus?",0.5872,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","What is the formula for kinetic energy?",0.7011,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Express the kinetic energy of a moving object in terms of mass and velocity.",0.7343,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","State the law of conservation of energy.",0.6736,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Energy can neither be created nor destroyed, only transformed from one form to another.",0.6167,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","What is the molecular formula of water?",0.6154,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Write the chemical formula for H2O.",0.6695,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","What are the constituent elements of water molecule?",0.5587,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Define photosynthesis in plants.",0.5531,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Explain the process by which plants convert sunlight into chemical energy.",0.5688,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","How do plants make their own food using sunlight?",0.4977,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","What is the speed of light in vacuum?",0.6478,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Find the velocity of electromagnetic radiation in free space.",0.7325,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","State Newton's first law of motion.",0.7035,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","An object at rest stays at rest unless acted upon by an external force.",0.6961,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","What is the principle of inertia as stated by Newton?",0.6876,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Define pH scale in chemistry.",0.6336,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.6153,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","What is the unit of electric current?",0.6449,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Name the SI base unit for measuring flow of electric charge.",0.6619,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Current is measured in which unit in the International System?",0.6089,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","What is the function of mitochondria in cells?",0.5548,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Describe the role of mitochondria as powerhouse of the cell.",0.5622,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","How do mitochondria produce ATP energy in cellular respiration?",0.549,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","What is the atomic number of carbon?",0.5889,false
+"Find the value of g (gravitational acceleration) on Earth's surface.","Carbon has how many protons in its nucleus?",0.5606,false
+"What is the formula for kinetic energy?","Express the kinetic energy of a moving object in terms of mass and velocity.",0.8533,true
+"What is the formula for kinetic energy?","State the law of conservation of energy.",0.7787,false
+"What is the formula for kinetic energy?","Energy can neither be created nor destroyed, only transformed from one form to another.",0.6992,false
+"What is the formula for kinetic energy?","What is the molecular formula of water?",0.6839,false
+"What is the formula for kinetic energy?","Write the chemical formula for H2O.",0.6913,false
+"What is the formula for kinetic energy?","What are the constituent elements of water molecule?",0.6041,false
+"What is the formula for kinetic energy?","Define photosynthesis in plants.",0.6413,false
+"What is the formula for kinetic energy?","Explain the process by which plants convert sunlight into chemical energy.",0.659,false
+"What is the formula for kinetic energy?","How do plants make their own food using sunlight?",0.5801,false
+"What is the formula for kinetic energy?","What is the speed of light in vacuum?",0.6511,false
+"What is the formula for kinetic energy?","Find the velocity of electromagnetic radiation in free space.",0.7045,false
+"What is the formula for kinetic energy?","State Newton's first law of motion.",0.7067,false
+"What is the formula for kinetic energy?","An object at rest stays at rest unless acted upon by an external force.",0.6617,false
+"What is the formula for kinetic energy?","What is the principle of inertia as stated by Newton?",0.7264,false
+"What is the formula for kinetic energy?","Define pH scale in chemistry.",0.615,false
+"What is the formula for kinetic energy?","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5912,false
+"What is the formula for kinetic energy?","What is the unit of electric current?",0.7112,false
+"What is the formula for kinetic energy?","Name the SI base unit for measuring flow of electric charge.",0.6535,false
+"What is the formula for kinetic energy?","Current is measured in which unit in the International System?",0.6349,false
+"What is the formula for kinetic energy?","What is the function of mitochondria in cells?",0.6273,false
+"What is the formula for kinetic energy?","Describe the role of mitochondria as powerhouse of the cell.",0.6268,false
+"What is the formula for kinetic energy?","How do mitochondria produce ATP energy in cellular respiration?",0.6538,false
+"What is the formula for kinetic energy?","What is the atomic number of carbon?",0.6177,false
+"What is the formula for kinetic energy?","Carbon has how many protons in its nucleus?",0.5734,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","State the law of conservation of energy.",0.7425,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Energy can neither be created nor destroyed, only transformed from one form to another.",0.6859,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","What is the molecular formula of water?",0.6249,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Write the chemical formula for H2O.",0.6654,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","What are the constituent elements of water molecule?",0.5779,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Define photosynthesis in plants.",0.5991,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Explain the process by which plants convert sunlight into chemical energy.",0.6165,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","How do plants make their own food using sunlight?",0.5194,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","What is the speed of light in vacuum?",0.6479,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Find the velocity of electromagnetic radiation in free space.",0.7458,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","State Newton's first law of motion.",0.7347,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","An object at rest stays at rest unless acted upon by an external force.",0.7151,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","What is the principle of inertia as stated by Newton?",0.7176,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Define pH scale in chemistry.",0.6009,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5865,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","What is the unit of electric current?",0.6987,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Name the SI base unit for measuring flow of electric charge.",0.6878,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Current is measured in which unit in the International System?",0.6566,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","What is the function of mitochondria in cells?",0.5952,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Describe the role of mitochondria as powerhouse of the cell.",0.6322,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","How do mitochondria produce ATP energy in cellular respiration?",0.6031,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","What is the atomic number of carbon?",0.5829,false
+"Express the kinetic energy of a moving object in terms of mass and velocity.","Carbon has how many protons in its nucleus?",0.5502,false
+"State the law of conservation of energy.","Energy can neither be created nor destroyed, only transformed from one form to another.",0.8121,true
+"State the law of conservation of energy.","What is the molecular formula of water?",0.6642,false
+"State the law of conservation of energy.","Write the chemical formula for H2O.",0.7009,false
+"State the law of conservation of energy.","What are the constituent elements of water molecule?",0.6366,false
+"State the law of conservation of energy.","Define photosynthesis in plants.",0.7006,false
+"State the law of conservation of energy.","Explain the process by which plants convert sunlight into chemical energy.",0.7225,false
+"State the law of conservation of energy.","How do plants make their own food using sunlight?",0.6291,false
+"State the law of conservation of energy.","What is the speed of light in vacuum?",0.6711,false
+"State the law of conservation of energy.","Find the velocity of electromagnetic radiation in free space.",0.6937,false
+"State the law of conservation of energy.","State Newton's first law of motion.",0.7958,false
+"State the law of conservation of energy.","An object at rest stays at rest unless acted upon by an external force.",0.7354,false
+"State the law of conservation of energy.","What is the principle of inertia as stated by Newton?",0.738,false
+"State the law of conservation of energy.","Define pH scale in chemistry.",0.6489,false
+"State the law of conservation of energy.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.63,false
+"State the law of conservation of energy.","What is the unit of electric current?",0.7359,false
+"State the law of conservation of energy.","Name the SI base unit for measuring flow of electric charge.",0.7067,false
+"State the law of conservation of energy.","Current is measured in which unit in the International System?",0.6761,false
+"State the law of conservation of energy.","What is the function of mitochondria in cells?",0.6447,false
+"State the law of conservation of energy.","Describe the role of mitochondria as powerhouse of the cell.",0.6837,false
+"State the law of conservation of energy.","How do mitochondria produce ATP energy in cellular respiration?",0.6606,false
+"State the law of conservation of energy.","What is the atomic number of carbon?",0.6436,false
+"State the law of conservation of energy.","Carbon has how many protons in its nucleus?",0.6281,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","What is the molecular formula of water?",0.599,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Write the chemical formula for H2O.",0.6259,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","What are the constituent elements of water molecule?",0.5779,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Define photosynthesis in plants.",0.652,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Explain the process by which plants convert sunlight into chemical energy.",0.698,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","How do plants make their own food using sunlight?",0.5934,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","What is the speed of light in vacuum?",0.5792,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Find the velocity of electromagnetic radiation in free space.",0.6522,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","State Newton's first law of motion.",0.6528,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","An object at rest stays at rest unless acted upon by an external force.",0.7341,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","What is the principle of inertia as stated by Newton?",0.6524,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Define pH scale in chemistry.",0.5976,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5579,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","What is the unit of electric current?",0.6692,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Name the SI base unit for measuring flow of electric charge.",0.6376,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Current is measured in which unit in the International System?",0.6086,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","What is the function of mitochondria in cells?",0.6134,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Describe the role of mitochondria as powerhouse of the cell.",0.6363,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","How do mitochondria produce ATP energy in cellular respiration?",0.634,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","What is the atomic number of carbon?",0.6,false
+"Energy can neither be created nor destroyed, only transformed from one form to another.","Carbon has how many protons in its nucleus?",0.5844,false
+"What is the molecular formula of water?","Write the chemical formula for H2O.",0.8886,true
+"What is the molecular formula of water?","What are the constituent elements of water molecule?",0.8786,true
+"What is the molecular formula of water?","Define photosynthesis in plants.",0.6244,false
+"What is the molecular formula of water?","Explain the process by which plants convert sunlight into chemical energy.",0.6244,false
+"What is the molecular formula of water?","How do plants make their own food using sunlight?",0.5777,false
+"What is the molecular formula of water?","What is the speed of light in vacuum?",0.6599,false
+"What is the molecular formula of water?","Find the velocity of electromagnetic radiation in free space.",0.6078,false
+"What is the molecular formula of water?","State Newton's first law of motion.",0.6184,false
+"What is the molecular formula of water?","An object at rest stays at rest unless acted upon by an external force.",0.5787,false
+"What is the molecular formula of water?","What is the principle of inertia as stated by Newton?",0.6054,false
+"What is the molecular formula of water?","Define pH scale in chemistry.",0.6999,false
+"What is the molecular formula of water?","Explain the logarithmic scale used to measure acidity and alkalinity.",0.6242,false
+"What is the molecular formula of water?","What is the unit of electric current?",0.665,false
+"What is the molecular formula of water?","Name the SI base unit for measuring flow of electric charge.",0.6271,false
+"What is the molecular formula of water?","Current is measured in which unit in the International System?",0.6036,false
+"What is the molecular formula of water?","What is the function of mitochondria in cells?",0.6383,false
+"What is the molecular formula of water?","Describe the role of mitochondria as powerhouse of the cell.",0.6094,false
+"What is the molecular formula of water?","How do mitochondria produce ATP energy in cellular respiration?",0.6279,false
+"What is the molecular formula of water?","What is the atomic number of carbon?",0.7403,false
+"What is the molecular formula of water?","Carbon has how many protons in its nucleus?",0.6986,false
+"Write the chemical formula for H2O.","What are the constituent elements of water molecule?",0.7957,false
+"Write the chemical formula for H2O.","Define photosynthesis in plants.",0.6746,false
+"Write the chemical formula for H2O.","Explain the process by which plants convert sunlight into chemical energy.",0.6789,false
+"Write the chemical formula for H2O.","How do plants make their own food using sunlight?",0.5592,false
+"Write the chemical formula for H2O.","What is the speed of light in vacuum?",0.6228,false
+"Write the chemical formula for H2O.","Find the velocity of electromagnetic radiation in free space.",0.641,false
+"Write the chemical formula for H2O.","State Newton's first law of motion.",0.6793,false
+"Write the chemical formula for H2O.","An object at rest stays at rest unless acted upon by an external force.",0.6409,false
+"Write the chemical formula for H2O.","What is the principle of inertia as stated by Newton?",0.6139,false
+"Write the chemical formula for H2O.","Define pH scale in chemistry.",0.7417,false
+"Write the chemical formula for H2O.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.647,false
+"Write the chemical formula for H2O.","What is the unit of electric current?",0.6458,false
+"Write the chemical formula for H2O.","Name the SI base unit for measuring flow of electric charge.",0.6536,false
+"Write the chemical formula for H2O.","Current is measured in which unit in the International System?",0.5872,false
+"Write the chemical formula for H2O.","What is the function of mitochondria in cells?",0.6147,false
+"Write the chemical formula for H2O.","Describe the role of mitochondria as powerhouse of the cell.",0.6273,false
+"Write the chemical formula for H2O.","How do mitochondria produce ATP energy in cellular respiration?",0.6004,false
+"Write the chemical formula for H2O.","What is the atomic number of carbon?",0.6813,false
+"Write the chemical formula for H2O.","Carbon has how many protons in its nucleus?",0.6606,false
+"What are the constituent elements of water molecule?","Define photosynthesis in plants.",0.6096,false
+"What are the constituent elements of water molecule?","Explain the process by which plants convert sunlight into chemical energy.",0.6061,false
+"What are the constituent elements of water molecule?","How do plants make their own food using sunlight?",0.5799,false
+"What are the constituent elements of water molecule?","What is the speed of light in vacuum?",0.5984,false
+"What are the constituent elements of water molecule?","Find the velocity of electromagnetic radiation in free space.",0.5528,false
+"What are the constituent elements of water molecule?","State Newton's first law of motion.",0.5821,false
+"What are the constituent elements of water molecule?","An object at rest stays at rest unless acted upon by an external force.",0.5441,false
+"What are the constituent elements of water molecule?","What is the principle of inertia as stated by Newton?",0.5675,false
+"What are the constituent elements of water molecule?","Define pH scale in chemistry.",0.6693,false
+"What are the constituent elements of water molecule?","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5969,false
+"What are the constituent elements of water molecule?","What is the unit of electric current?",0.6467,false
+"What are the constituent elements of water molecule?","Name the SI base unit for measuring flow of electric charge.",0.6045,false
+"What are the constituent elements of water molecule?","Current is measured in which unit in the International System?",0.5668,false
+"What are the constituent elements of water molecule?","What is the function of mitochondria in cells?",0.658,false
+"What are the constituent elements of water molecule?","Describe the role of mitochondria as powerhouse of the cell.",0.6322,false
+"What are the constituent elements of water molecule?","How do mitochondria produce ATP energy in cellular respiration?",0.6357,false
+"What are the constituent elements of water molecule?","What is the atomic number of carbon?",0.7016,false
+"What are the constituent elements of water molecule?","Carbon has how many protons in its nucleus?",0.7019,false
+"Define photosynthesis in plants.","Explain the process by which plants convert sunlight into chemical energy.",0.8763,true
+"Define photosynthesis in plants.","How do plants make their own food using sunlight?",0.818,true
+"Define photosynthesis in plants.","What is the speed of light in vacuum?",0.6055,false
+"Define photosynthesis in plants.","Find the velocity of electromagnetic radiation in free space.",0.5749,false
+"Define photosynthesis in plants.","State Newton's first law of motion.",0.6252,false
+"Define photosynthesis in plants.","An object at rest stays at rest unless acted upon by an external force.",0.5973,false
+"Define photosynthesis in plants.","What is the principle of inertia as stated by Newton?",0.5932,false
+"Define photosynthesis in plants.","Define pH scale in chemistry.",0.6818,false
+"Define photosynthesis in plants.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5965,false
+"Define photosynthesis in plants.","What is the unit of electric current?",0.6125,false
+"Define photosynthesis in plants.","Name the SI base unit for measuring flow of electric charge.",0.584,false
+"Define photosynthesis in plants.","Current is measured in which unit in the International System?",0.555,false
+"Define photosynthesis in plants.","What is the function of mitochondria in cells?",0.7163,false
+"Define photosynthesis in plants.","Describe the role of mitochondria as powerhouse of the cell.",0.7231,false
+"Define photosynthesis in plants.","How do mitochondria produce ATP energy in cellular respiration?",0.7291,false
+"Define photosynthesis in plants.","What is the atomic number of carbon?",0.5985,false
+"Define photosynthesis in plants.","Carbon has how many protons in its nucleus?",0.6131,false
+"Explain the process by which plants convert sunlight into chemical energy.","How do plants make their own food using sunlight?",0.8526,true
+"Explain the process by which plants convert sunlight into chemical energy.","What is the speed of light in vacuum?",0.5802,false
+"Explain the process by which plants convert sunlight into chemical energy.","Find the velocity of electromagnetic radiation in free space.",0.5842,false
+"Explain the process by which plants convert sunlight into chemical energy.","State Newton's first law of motion.",0.6214,false
+"Explain the process by which plants convert sunlight into chemical energy.","An object at rest stays at rest unless acted upon by an external force.",0.5958,false
+"Explain the process by which plants convert sunlight into chemical energy.","What is the principle of inertia as stated by Newton?",0.5763,false
+"Explain the process by which plants convert sunlight into chemical energy.","Define pH scale in chemistry.",0.6573,false
+"Explain the process by which plants convert sunlight into chemical energy.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.6177,false
+"Explain the process by which plants convert sunlight into chemical energy.","What is the unit of electric current?",0.6048,false
+"Explain the process by which plants convert sunlight into chemical energy.","Name the SI base unit for measuring flow of electric charge.",0.5901,false
+"Explain the process by which plants convert sunlight into chemical energy.","Current is measured in which unit in the International System?",0.566,false
+"Explain the process by which plants convert sunlight into chemical energy.","What is the function of mitochondria in cells?",0.6864,false
+"Explain the process by which plants convert sunlight into chemical energy.","Describe the role of mitochondria as powerhouse of the cell.",0.703,false
+"Explain the process by which plants convert sunlight into chemical energy.","How do mitochondria produce ATP energy in cellular respiration?",0.7302,false
+"Explain the process by which plants convert sunlight into chemical energy.","What is the atomic number of carbon?",0.6054,false
+"Explain the process by which plants convert sunlight into chemical energy.","Carbon has how many protons in its nucleus?",0.5965,false
+"How do plants make their own food using sunlight?","What is the speed of light in vacuum?",0.5777,false
+"How do plants make their own food using sunlight?","Find the velocity of electromagnetic radiation in free space.",0.5275,false
+"How do plants make their own food using sunlight?","State Newton's first law of motion.",0.5457,false
+"How do plants make their own food using sunlight?","An object at rest stays at rest unless acted upon by an external force.",0.5182,false
+"How do plants make their own food using sunlight?","What is the principle of inertia as stated by Newton?",0.5369,false
+"How do plants make their own food using sunlight?","Define pH scale in chemistry.",0.5493,false
+"How do plants make their own food using sunlight?","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5253,false
+"How do plants make their own food using sunlight?","What is the unit of electric current?",0.5795,false
+"How do plants make their own food using sunlight?","Name the SI base unit for measuring flow of electric charge.",0.5082,false
+"How do plants make their own food using sunlight?","Current is measured in which unit in the International System?",0.5205,false
+"How do plants make their own food using sunlight?","What is the function of mitochondria in cells?",0.672,false
+"How do plants make their own food using sunlight?","Describe the role of mitochondria as powerhouse of the cell.",0.6326,false
+"How do plants make their own food using sunlight?","How do mitochondria produce ATP energy in cellular respiration?",0.6808,false
+"How do plants make their own food using sunlight?","What is the atomic number of carbon?",0.5696,false
+"How do plants make their own food using sunlight?","Carbon has how many protons in its nucleus?",0.5835,false
+"What is the speed of light in vacuum?","Find the velocity of electromagnetic radiation in free space.",0.773,false
+"What is the speed of light in vacuum?","State Newton's first law of motion.",0.6432,false
+"What is the speed of light in vacuum?","An object at rest stays at rest unless acted upon by an external force.",0.6161,false
+"What is the speed of light in vacuum?","What is the principle of inertia as stated by Newton?",0.6625,false
+"What is the speed of light in vacuum?","Define pH scale in chemistry.",0.6127,false
+"What is the speed of light in vacuum?","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5527,false
+"What is the speed of light in vacuum?","What is the unit of electric current?",0.6875,false
+"What is the speed of light in vacuum?","Name the SI base unit for measuring flow of electric charge.",0.6237,false
+"What is the speed of light in vacuum?","Current is measured in which unit in the International System?",0.6387,false
+"What is the speed of light in vacuum?","What is the function of mitochondria in cells?",0.5689,false
+"What is the speed of light in vacuum?","Describe the role of mitochondria as powerhouse of the cell.",0.5483,false
+"What is the speed of light in vacuum?","How do mitochondria produce ATP energy in cellular respiration?",0.5616,false
+"What is the speed of light in vacuum?","What is the atomic number of carbon?",0.6147,false
+"What is the speed of light in vacuum?","Carbon has how many protons in its nucleus?",0.5926,false
+"Find the velocity of electromagnetic radiation in free space.","State Newton's first law of motion.",0.6886,false
+"Find the velocity of electromagnetic radiation in free space.","An object at rest stays at rest unless acted upon by an external force.",0.6775,false
+"Find the velocity of electromagnetic radiation in free space.","What is the principle of inertia as stated by Newton?",0.6503,false
+"Find the velocity of electromagnetic radiation in free space.","Define pH scale in chemistry.",0.5707,false
+"Find the velocity of electromagnetic radiation in free space.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5235,false
+"Find the velocity of electromagnetic radiation in free space.","What is the unit of electric current?",0.6604,false
+"Find the velocity of electromagnetic radiation in free space.","Name the SI base unit for measuring flow of electric charge.",0.6523,false
+"Find the velocity of electromagnetic radiation in free space.","Current is measured in which unit in the International System?",0.6071,false
+"Find the velocity of electromagnetic radiation in free space.","What is the function of mitochondria in cells?",0.5599,false
+"Find the velocity of electromagnetic radiation in free space.","Describe the role of mitochondria as powerhouse of the cell.",0.5646,false
+"Find the velocity of electromagnetic radiation in free space.","How do mitochondria produce ATP energy in cellular respiration?",0.569,false
+"Find the velocity of electromagnetic radiation in free space.","What is the atomic number of carbon?",0.5688,false
+"Find the velocity of electromagnetic radiation in free space.","Carbon has how many protons in its nucleus?",0.5494,false
+"State Newton's first law of motion.","An object at rest stays at rest unless acted upon by an external force.",0.7566,false
+"State Newton's first law of motion.","What is the principle of inertia as stated by Newton?",0.8277,true
+"State Newton's first law of motion.","Define pH scale in chemistry.",0.6213,false
+"State Newton's first law of motion.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.602,false
+"State Newton's first law of motion.","What is the unit of electric current?",0.6597,false
+"State Newton's first law of motion.","Name the SI base unit for measuring flow of electric charge.",0.6513,false
+"State Newton's first law of motion.","Current is measured in which unit in the International System?",0.6211,false
+"State Newton's first law of motion.","What is the function of mitochondria in cells?",0.5797,false
+"State Newton's first law of motion.","Describe the role of mitochondria as powerhouse of the cell.",0.5999,false
+"State Newton's first law of motion.","How do mitochondria produce ATP energy in cellular respiration?",0.5625,false
+"State Newton's first law of motion.","What is the atomic number of carbon?",0.5787,false
+"State Newton's first law of motion.","Carbon has how many protons in its nucleus?",0.5765,false
+"An object at rest stays at rest unless acted upon by an external force.","What is the principle of inertia as stated by Newton?",0.7443,false
+"An object at rest stays at rest unless acted upon by an external force.","Define pH scale in chemistry.",0.5978,false
+"An object at rest stays at rest unless acted upon by an external force.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5369,false
+"An object at rest stays at rest unless acted upon by an external force.","What is the unit of electric current?",0.6117,false
+"An object at rest stays at rest unless acted upon by an external force.","Name the SI base unit for measuring flow of electric charge.",0.631,false
+"An object at rest stays at rest unless acted upon by an external force.","Current is measured in which unit in the International System?",0.5834,false
+"An object at rest stays at rest unless acted upon by an external force.","What is the function of mitochondria in cells?",0.5379,false
+"An object at rest stays at rest unless acted upon by an external force.","Describe the role of mitochondria as powerhouse of the cell.",0.5734,false
+"An object at rest stays at rest unless acted upon by an external force.","How do mitochondria produce ATP energy in cellular respiration?",0.5287,false
+"An object at rest stays at rest unless acted upon by an external force.","What is the atomic number of carbon?",0.5228,false
+"An object at rest stays at rest unless acted upon by an external force.","Carbon has how many protons in its nucleus?",0.5145,false
+"What is the principle of inertia as stated by Newton?","Define pH scale in chemistry.",0.6002,false
+"What is the principle of inertia as stated by Newton?","Explain the logarithmic scale used to measure acidity and alkalinity.",0.5781,false
+"What is the principle of inertia as stated by Newton?","What is the unit of electric current?",0.647,false
+"What is the principle of inertia as stated by Newton?","Name the SI base unit for measuring flow of electric charge.",0.6253,false
+"What is the principle of inertia as stated by Newton?","Current is measured in which unit in the International System?",0.6228,false
+"What is the principle of inertia as stated by Newton?","What is the function of mitochondria in cells?",0.562,false
+"What is the principle of inertia as stated by Newton?","Describe the role of mitochondria as powerhouse of the cell.",0.5701,false
+"What is the principle of inertia as stated by Newton?","How do mitochondria produce ATP energy in cellular respiration?",0.5478,false
+"What is the principle of inertia as stated by Newton?","What is the atomic number of carbon?",0.5825,false
+"What is the principle of inertia as stated by Newton?","Carbon has how many protons in its nucleus?",0.5967,false
+"Define pH scale in chemistry.","Explain the logarithmic scale used to measure acidity and alkalinity.",0.8285,true
+"Define pH scale in chemistry.","What is the unit of electric current?",0.6618,false
+"Define pH scale in chemistry.","Name the SI base unit for measuring flow of electric charge.",0.6895,false
+"Define pH scale in chemistry.","Current is measured in which unit in the International System?",0.637,false
+"Define pH scale in chemistry.","What is the function of mitochondria in cells?",0.6117,false
+"Define pH scale in chemistry.","Describe the role of mitochondria as powerhouse of the cell.",0.6057,false
+"Define pH scale in chemistry.","How do mitochondria produce ATP energy in cellular respiration?",0.6007,false
+"Define pH scale in chemistry.","What is the atomic number of carbon?",0.6659,false
+"Define pH scale in chemistry.","Carbon has how many protons in its nucleus?",0.6268,false
+"Explain the logarithmic scale used to measure acidity and alkalinity.","What is the unit of electric current?",0.6508,false
+"Explain the logarithmic scale used to measure acidity and alkalinity.","Name the SI base unit for measuring flow of electric charge.",0.6746,false
+"Explain the logarithmic scale used to measure acidity and alkalinity.","Current is measured in which unit in the International System?",0.6511,false
+"Explain the logarithmic scale used to measure acidity and alkalinity.","What is the function of mitochondria in cells?",0.5872,false
+"Explain the logarithmic scale used to measure acidity and alkalinity.","Describe the role of mitochondria as powerhouse of the cell.",0.5802,false
+"Explain the logarithmic scale used to measure acidity and alkalinity.","How do mitochondria produce ATP energy in cellular respiration?",0.5615,false
+"Explain the logarithmic scale used to measure acidity and alkalinity.","What is the atomic number of carbon?",0.6102,false
+"Explain the logarithmic scale used to measure acidity and alkalinity.","Carbon has how many protons in its nucleus?",0.5477,false
+"What is the unit of electric current?","Name the SI base unit for measuring flow of electric charge.",0.858,true
+"What is the unit of electric current?","Current is measured in which unit in the International System?",0.8969,true
+"What is the unit of electric current?","What is the function of mitochondria in cells?",0.6328,false
+"What is the unit of electric current?","Describe the role of mitochondria as powerhouse of the cell.",0.6375,false
+"What is the unit of electric current?","How do mitochondria produce ATP energy in cellular respiration?",0.6246,false
+"What is the unit of electric current?","What is the atomic number of carbon?",0.6703,false
+"What is the unit of electric current?","Carbon has how many protons in its nucleus?",0.6418,false
+"Name the SI base unit for measuring flow of electric charge.","Current is measured in which unit in the International System?",0.8352,true
+"Name the SI base unit for measuring flow of electric charge.","What is the function of mitochondria in cells?",0.5741,false
+"Name the SI base unit for measuring flow of electric charge.","Describe the role of mitochondria as powerhouse of the cell.",0.6209,false
+"Name the SI base unit for measuring flow of electric charge.","How do mitochondria produce ATP energy in cellular respiration?",0.573,false
+"Name the SI base unit for measuring flow of electric charge.","What is the atomic number of carbon?",0.599,false
+"Name the SI base unit for measuring flow of electric charge.","Carbon has how many protons in its nucleus?",0.5895,false
+"Current is measured in which unit in the International System?","What is the function of mitochondria in cells?",0.556,false
+"Current is measured in which unit in the International System?","Describe the role of mitochondria as powerhouse of the cell.",0.5736,false
+"Current is measured in which unit in the International System?","How do mitochondria produce ATP energy in cellular respiration?",0.568,false
+"Current is measured in which unit in the International System?","What is the atomic number of carbon?",0.6137,false
+"Current is measured in which unit in the International System?","Carbon has how many protons in its nucleus?",0.5877,false
+"What is the function of mitochondria in cells?","Describe the role of mitochondria as powerhouse of the cell.",0.9164,true
+"What is the function of mitochondria in cells?","How do mitochondria produce ATP energy in cellular respiration?",0.8976,true
+"What is the function of mitochondria in cells?","What is the atomic number of carbon?",0.6496,false
+"What is the function of mitochondria in cells?","Carbon has how many protons in its nucleus?",0.6355,false
+"Describe the role of mitochondria as powerhouse of the cell.","How do mitochondria produce ATP energy in cellular respiration?",0.8461,true
+"Describe the role of mitochondria as powerhouse of the cell.","What is the atomic number of carbon?",0.6188,false
+"Describe the role of mitochondria as powerhouse of the cell.","Carbon has how many protons in its nucleus?",0.6231,false
+"How do mitochondria produce ATP energy in cellular respiration?","What is the atomic number of carbon?",0.644,false
+"How do mitochondria produce ATP energy in cellular respiration?","Carbon has how many protons in its nucleus?",0.6301,false
+"What is the atomic number of carbon?","Carbon has how many protons in its nucleus?",0.8755,true

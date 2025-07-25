@@ -1,4 +1,4 @@
-const { processQuestions } = require('../services/nestedImpl/questionProcessor');
+const { processQuestions } = require('../services/questionProcessor');
 const fs = require('fs');
 
 const sampleQuestions = JSON.parse(fs.readFileSync('./data/sampleQuestions.json', 'utf-8'));
