@@ -17,6 +17,7 @@
     "csv-writer": "^1.6.0",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
+    "faiss-node": "^0.5.1",
     "multer": "^2.0.2"
   },
   "devDependencies": {

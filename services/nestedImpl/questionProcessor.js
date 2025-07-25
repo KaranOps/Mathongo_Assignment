@@ -1,5 +1,5 @@
 const { getBatchEmbeddings } = require('./embeddingService');
-const { calculateCosineSimilarity, checkIsReplica, classifySimilarity } = require('../utilis/similarity');
+const { calculateCosineSimilarity, checkIsReplica, classifySimilarity } = require('../../utilis/similarity');
 
 // Process questions and find similarities between them
 exports.processQuestions = async (questions, threshold = 0.8) => {

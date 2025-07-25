@@ -1,4 +1,4 @@
-const { processQuestions } = require('../services/questionProcessor');
+const { processQuestions } = require('../services/nestedImpl/questionProcessor');
 const fs = require('fs');
 
 const sampleQuestions = JSON.parse(fs.readFileSync('./data/sampleQuestions.json', 'utf-8'));
@@ -7,7 +7,7 @@ const sampleQuestions = JSON.parse(fs.readFileSync('./data/sampleQuestions.json'
 exports.replicaCheck = async (req, res) => {
     try {
         const { questions, threshold = 0.8 } = req.body;
-        
+
         // Input validation
         if (!Array.isArray(questions) || questions.length < 2) {
             return res.status(400).json({
@@ -18,7 +18,7 @@ exports.replicaCheck = async (req, res) => {
 
         // Process questions
         const result = await processQuestions(questions, threshold);
-        
+
         if (!result.success) {
             return res.status(500).json({
                 success: false,
