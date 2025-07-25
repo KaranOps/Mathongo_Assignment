@@ -1,5 +1,7 @@
 # AI-Powered Question Similarity & Replica Detector
 
+- **Demo Video:** [Click](https://youtu.be/rSCuGygE0bg?feature=shared) 
+
 ## What This Project Does
 
 This is a backend tool that finds similar or duplicate questions in educational datasets. 

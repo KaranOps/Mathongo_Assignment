@@ -2,117 +2,135 @@
   "metadata": {
     "total_questions": 30,
     "total_pairs": 435,
-    "replica_pairs": 18,
+    "replica_pairs": 21,
     "threshold_used": 0.8,
-    "timestamp": "2025-07-25T13:03:58.366Z"
+    "timestamp": "2025-07-25T14:25:53.818Z"
   },
   "replica_pairs": [
     {
       "question1": "What is the derivative of x^2 with respect to x?",
+      "question2": "Find the rate of change of x squared with respect to x.",
+      "similarity_score": 0.8021,
+      "is_replica": true
+    },
+    {
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Calculate the first derivative of the function f(x) = x^2.",
-      "similarity_score": 0.8869,
+      "similarity_score": 0.8926,
       "is_replica": true
     },
     {
       "question1": "What is the acceleration due to gravity on Earth?",
       "question2": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "similarity_score": 0.8703,
+      "similarity_score": 0.8768,
       "is_replica": true
     },
     {
       "question1": "What is the formula for kinetic energy?",
       "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "similarity_score": 0.8533,
+      "similarity_score": 0.8606,
       "is_replica": true
     },
     {
       "question1": "State the law of conservation of energy.",
       "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.8121,
+      "similarity_score": 0.8215,
+      "is_replica": true
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.806,
       "is_replica": true
     },
     {
       "question1": "What is the molecular formula of water?",
       "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.8886,
+      "similarity_score": 0.8942,
       "is_replica": true
     },
     {
       "question1": "What is the molecular formula of water?",
       "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.8786,
+      "similarity_score": 0.8846,
+      "is_replica": true
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.8059,
       "is_replica": true
     },
     {
       "question1": "Define photosynthesis in plants.",
       "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.8763,
+      "similarity_score": 0.8825,
       "is_replica": true
     },
     {
       "question1": "Define photosynthesis in plants.",
       "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.818,
+      "similarity_score": 0.8271,
       "is_replica": true
     },
     {
       "question1": "Explain the process by which plants convert sunlight into chemical energy.",
       "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.8526,
+      "similarity_score": 0.8599,
       "is_replica": true
     },
     {
       "question1": "State Newton's first law of motion.",
       "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.8277,
+      "similarity_score": 0.8363,
       "is_replica": true
     },
     {
       "question1": "Define pH scale in chemistry.",
       "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.8285,
+      "similarity_score": 0.8371,
       "is_replica": true
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.858,
+      "similarity_score": 0.8651,
       "is_replica": true
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.8969,
+      "similarity_score": 0.902,
       "is_replica": true
     },
     {
       "question1": "Name the SI base unit for measuring flow of electric charge.",
       "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.8352,
+      "similarity_score": 0.8434,
       "is_replica": true
     },
     {
       "question1": "What is the function of mitochondria in cells?",
       "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.9164,
+      "similarity_score": 0.9205,
       "is_replica": true
     },
     {
       "question1": "What is the function of mitochondria in cells?",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.8976,
+      "similarity_score": 0.9027,
       "is_replica": true
     },
     {
       "question1": "Describe the role of mitochondria as powerhouse of the cell.",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.8461,
+      "similarity_score": 0.8538,
       "is_replica": true
     },
     {
       "question1": "What is the atomic number of carbon?",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.8755,
+      "similarity_score": 0.8817,
       "is_replica": true
     }
   ],
@@ -120,2611 +138,2611 @@
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Find the rate of change of x squared with respect to x.",
-      "similarity_score": 0.7916,
-      "is_replica": false
+      "similarity_score": 0.8021,
+      "is_replica": true
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Calculate the first derivative of the function f(x) = x^2.",
-      "similarity_score": 0.8869,
+      "similarity_score": 0.8926,
       "is_replica": true
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What is the acceleration due to gravity on Earth?",
-      "similarity_score": 0.6379,
+      "similarity_score": 0.656,
       "is_replica": false
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "similarity_score": 0.6391,
+      "similarity_score": 0.6571,
       "is_replica": false
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What is the formula for kinetic energy?",
-      "similarity_score": 0.6688,
+      "similarity_score": 0.6854,
       "is_replica": false
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "similarity_score": 0.6601,
+      "similarity_score": 0.6771,
       "is_replica": false
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "State the law of conservation of energy.",
-      "similarity_score": 0.631,
+      "similarity_score": 0.6495,
       "is_replica": false
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.5483,
+      "similarity_score": 0.5709,
       "is_replica": false
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.5995,
+      "similarity_score": 0.6195,
       "is_replica": false
     },
     {
       "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.6345,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.5822,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.6,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.5685,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.5302,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.5787,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.5841,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.6223,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.6074,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6221,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6014,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.6103,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6396,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6066,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.5799,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5795,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5675,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5598,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5713,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the derivative of x^2 with respect to x?",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5372,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Calculate the first derivative of the function f(x) = x^2.",
-      "similarity_score": 0.7837,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What is the acceleration due to gravity on Earth?",
-      "similarity_score": 0.6153,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "similarity_score": 0.6748,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What is the formula for kinetic energy?",
-      "similarity_score": 0.6453,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "similarity_score": 0.6865,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "State the law of conservation of energy.",
-      "similarity_score": 0.6371,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.5805,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.5394,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.6171,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.4988,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.563,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.5539,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.4843,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.5706,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.661,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.644,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.6397,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6113,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.5663,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5866,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6258,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6042,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.5767,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5304,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5466,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5226,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5214,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the rate of change of x squared with respect to x.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.4961,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What is the acceleration due to gravity on Earth?",
-      "similarity_score": 0.6166,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "similarity_score": 0.6874,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What is the formula for kinetic energy?",
-      "similarity_score": 0.6497,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "similarity_score": 0.6861,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "State the law of conservation of energy.",
-      "similarity_score": 0.638,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.5785,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.5675,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.6601,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.5227,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.5745,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.5574,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.4749,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.5624,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.6473,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.6982,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.6553,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6163,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.5916,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5992,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.5949,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6166,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.5426,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5372,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5374,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5237,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5201,
-      "is_replica": false
-    },
-    {
-      "question1": "Calculate the first derivative of the function f(x) = x^2.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5014,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "similarity_score": 0.8703,
-      "is_replica": true
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "What is the formula for kinetic energy?",
-      "similarity_score": 0.7082,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "similarity_score": 0.7015,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "State the law of conservation of energy.",
-      "similarity_score": 0.6634,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.6011,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.6008,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.6031,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.5574,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.5665,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.5627,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.5579,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.69,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.6902,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.7016,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.681,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.7285,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6056,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.6053,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6599,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6282,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6179,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5984,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5687,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5975,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6135,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the acceleration due to gravity on Earth?",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5872,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "What is the formula for kinetic energy?",
-      "similarity_score": 0.7011,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "similarity_score": 0.7343,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "State the law of conservation of energy.",
-      "similarity_score": 0.6736,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.6167,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.6154,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.6695,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.5587,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.5531,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.5688,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.4977,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.6478,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.7325,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.7035,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.6961,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6876,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6336,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.6153,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6449,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6619,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6089,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5548,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5622,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.549,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5889,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5606,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "similarity_score": 0.8533,
-      "is_replica": true
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "State the law of conservation of energy.",
-      "similarity_score": 0.7787,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.6992,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.6839,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.6913,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.6041,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.6413,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.659,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.5801,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.6511,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.7045,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.7067,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.6617,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.7264,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.615,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5912,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.7112,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6535,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6349,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.6273,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6268,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6538,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6177,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the formula for kinetic energy?",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5734,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "State the law of conservation of energy.",
-      "similarity_score": 0.7425,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.6859,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.6249,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.6654,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.5779,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.5991,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.6165,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.5194,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.6479,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.7458,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.7347,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.7151,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.7176,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6009,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5865,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6987,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6878,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6566,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5952,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6322,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6031,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5829,
-      "is_replica": false
-    },
-    {
-      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5502,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "similarity_score": 0.8121,
-      "is_replica": true
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.6642,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.7009,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.6366,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.7006,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.7225,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.6291,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.6711,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.6937,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.7958,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.7354,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.738,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6489,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.63,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.7359,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.7067,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6761,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.6447,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6837,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6606,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6436,
-      "is_replica": false
-    },
-    {
-      "question1": "State the law of conservation of energy.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6281,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "What is the molecular formula of water?",
-      "similarity_score": 0.599,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.6259,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.5779,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.652,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.698,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.5934,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.5792,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.6522,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "State Newton's first law of motion.",
       "similarity_score": 0.6528,
       "is_replica": false
     },
     {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.7341,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6524,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.5976,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5579,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6692,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6376,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6086,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.6134,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6363,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.634,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6,
-      "is_replica": false
-    },
-    {
-      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5844,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "Write the chemical formula for H2O.",
-      "similarity_score": 0.8886,
-      "is_replica": true
-    },
-    {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.8786,
-      "is_replica": true
+      "similarity_score": 0.603,
+      "is_replica": false
     },
     {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.6244,
+      "similarity_score": 0.62,
       "is_replica": false
     },
     {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.6244,
+      "similarity_score": 0.59,
       "is_replica": false
     },
     {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.5777,
+      "similarity_score": 0.5537,
       "is_replica": false
     },
     {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.6599,
+      "similarity_score": 0.5997,
       "is_replica": false
     },
     {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.6078,
+      "similarity_score": 0.6049,
       "is_replica": false
     },
     {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.6184,
+      "similarity_score": 0.6412,
       "is_replica": false
     },
     {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.5787,
+      "similarity_score": 0.627,
       "is_replica": false
     },
     {
-      "question1": "What is the molecular formula of water?",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6054,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6999,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.6242,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.665,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6271,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6036,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.6383,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6094,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6279,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.7403,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the molecular formula of water?",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6986,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "What are the constituent elements of water molecule?",
-      "similarity_score": 0.7957,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.6746,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.6789,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.5592,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.6228,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
       "similarity_score": 0.641,
       "is_replica": false
     },
     {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.6793,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.6409,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6139,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.7417,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.647,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6458,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6536,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.5872,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.6147,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6273,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6004,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6813,
-      "is_replica": false
-    },
-    {
-      "question1": "Write the chemical formula for H2O.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6606,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Define photosynthesis in plants.",
-      "similarity_score": 0.6096,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.6061,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.5799,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.5984,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.5528,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.5821,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.5441,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.5675,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6693,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5969,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6467,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6045,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.5668,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.658,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6322,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6357,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.7016,
-      "is_replica": false
-    },
-    {
-      "question1": "What are the constituent elements of water molecule?",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.7019,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
-      "similarity_score": 0.8763,
-      "is_replica": true
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.818,
-      "is_replica": true
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.6055,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.5749,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.6252,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.5973,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.5932,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6818,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5965,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6125,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.584,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.555,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.7163,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.7231,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.7291,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5985,
-      "is_replica": false
-    },
-    {
-      "question1": "Define photosynthesis in plants.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6131,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "How do plants make their own food using sunlight?",
-      "similarity_score": 0.8526,
-      "is_replica": true
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.5802,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.5842,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.6214,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.5958,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.5763,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6573,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.6177,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6048,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.5901,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.566,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.6864,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.703,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.7302,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6054,
-      "is_replica": false
-    },
-    {
-      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5965,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "What is the speed of light in vacuum?",
-      "similarity_score": 0.5777,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.5275,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.5457,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.5182,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.5369,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.5493,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5253,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.5795,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.5082,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.5205,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.672,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6326,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6808,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5696,
-      "is_replica": false
-    },
-    {
-      "question1": "How do plants make their own food using sunlight?",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5835,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "Find the velocity of electromagnetic radiation in free space.",
-      "similarity_score": 0.773,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.6432,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.6161,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6625,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6127,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5527,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6875,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6237,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6387,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5689,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5483,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5616,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6147,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the speed of light in vacuum?",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5926,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "State Newton's first law of motion.",
-      "similarity_score": 0.6886,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.6775,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.6503,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.5707,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5235,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6604,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6523,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6071,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5599,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5646,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.569,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5688,
-      "is_replica": false
-    },
-    {
-      "question1": "Find the velocity of electromagnetic radiation in free space.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5494,
-      "is_replica": false
-    },
-    {
-      "question1": "State Newton's first law of motion.",
-      "question2": "An object at rest stays at rest unless acted upon by an external force.",
-      "similarity_score": 0.7566,
-      "is_replica": false
-    },
-    {
-      "question1": "State Newton's first law of motion.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.8277,
-      "is_replica": true
-    },
-    {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Define pH scale in chemistry.",
       "similarity_score": 0.6213,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.602,
+      "similarity_score": 0.6298,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6597,
+      "similarity_score": 0.6576,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6513,
+      "similarity_score": 0.6263,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6211,
+      "similarity_score": 0.6009,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5797,
+      "similarity_score": 0.6005,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5999,
+      "similarity_score": 0.5891,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5625,
+      "similarity_score": 0.5818,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5787,
+      "similarity_score": 0.5927,
       "is_replica": false
     },
     {
-      "question1": "State Newton's first law of motion.",
+      "question1": "What is the derivative of x^2 with respect to x?",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5765,
+      "similarity_score": 0.5603,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "What is the principle of inertia as stated by Newton?",
-      "similarity_score": 0.7443,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Calculate the first derivative of the function f(x) = x^2.",
+      "similarity_score": 0.7945,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.5978,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What is the acceleration due to gravity on Earth?",
+      "similarity_score": 0.6345,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5369,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "similarity_score": 0.6911,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6117,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What is the formula for kinetic energy?",
+      "similarity_score": 0.663,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.631,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "similarity_score": 0.7022,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.5834,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "State the law of conservation of energy.",
+      "similarity_score": 0.6553,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5379,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "similarity_score": 0.6015,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5734,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What is the molecular formula of water?",
+      "similarity_score": 0.5624,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5287,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.6362,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5228,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.5239,
       "is_replica": false
     },
     {
-      "question1": "An object at rest stays at rest unless acted upon by an external force.",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5145,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.5849,
       "is_replica": false
     },
     {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "Define pH scale in chemistry.",
-      "similarity_score": 0.6002,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.5762,
       "is_replica": false
     },
     {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.5781,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.5101,
       "is_replica": false
     },
     {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "What is the unit of electric current?",
-      "similarity_score": 0.647,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.5921,
       "is_replica": false
     },
     {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6253,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.6779,
       "is_replica": false
     },
     {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6228,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.562,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5701,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5478,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.5825,
-      "is_replica": false
-    },
-    {
-      "question1": "What is the principle of inertia as stated by Newton?",
-      "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5967,
-      "is_replica": false
-    },
-    {
-      "question1": "Define pH scale in chemistry.",
-      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
-      "similarity_score": 0.8285,
-      "is_replica": true
-    },
-    {
-      "question1": "Define pH scale in chemistry.",
-      "question2": "What is the unit of electric current?",
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "State Newton's first law of motion.",
       "similarity_score": 0.6618,
       "is_replica": false
     },
     {
-      "question1": "Define pH scale in chemistry.",
-      "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6895,
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.6578,
       "is_replica": false
     },
     {
-      "question1": "Define pH scale in chemistry.",
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.6307,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.588,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6073,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6446,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.624,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.5979,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.5539,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.5693,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.5465,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.5454,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the rate of change of x squared with respect to x.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.5213,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What is the acceleration due to gravity on Earth?",
+      "similarity_score": 0.6358,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "similarity_score": 0.703,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What is the formula for kinetic energy?",
+      "similarity_score": 0.6673,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "similarity_score": 0.7018,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "State the law of conservation of energy.",
+      "similarity_score": 0.6561,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "similarity_score": 0.5996,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What is the molecular formula of water?",
+      "similarity_score": 0.5892,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.6771,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.5466,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.5957,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.5795,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.5012,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.5843,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.6649,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.7132,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.6726,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.6355,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6121,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6192,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6152,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6357,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.5655,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.5603,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.5605,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.5475,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.5441,
+      "is_replica": false
+    },
+    {
+      "question1": "Calculate the first derivative of the function f(x) = x^2.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.5263,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "similarity_score": 0.8768,
+      "is_replica": true
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "What is the formula for kinetic energy?",
+      "similarity_score": 0.7227,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "similarity_score": 0.7164,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "State the law of conservation of energy.",
+      "similarity_score": 0.6802,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "similarity_score": 0.621,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "What is the molecular formula of water?",
+      "similarity_score": 0.6208,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.6229,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.5795,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.5882,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.5845,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.58,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.7055,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.7057,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.7165,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.697,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.7421,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6253,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.625,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6769,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6468,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
       "question2": "Current is measured in which unit in the International System?",
       "similarity_score": 0.637,
       "is_replica": false
     },
     {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6185,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.5903,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6176,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6328,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the acceleration due to gravity on Earth?",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6078,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "What is the formula for kinetic energy?",
+      "similarity_score": 0.716,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "similarity_score": 0.7476,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "State the law of conservation of energy.",
+      "similarity_score": 0.6899,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "similarity_score": 0.6359,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "What is the molecular formula of water?",
+      "similarity_score": 0.6347,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.686,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.5808,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.5754,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.5903,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.5228,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6654,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.7459,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.7183,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.7113,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.7032,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.652,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6345,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6626,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6788,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6284,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.577,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.5841,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.5715,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6094,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the value of g (gravitational acceleration) on Earth's surface.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.5826,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "similarity_score": 0.8606,
+      "is_replica": true
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "State the law of conservation of energy.",
+      "similarity_score": 0.7897,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "similarity_score": 0.7142,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "What is the molecular formula of water?",
+      "similarity_score": 0.6997,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.7067,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.6239,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.6593,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.676,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.6011,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6685,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.7192,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.7214,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.6786,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.7401,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6343,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6117,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.7256,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6708,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6532,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6459,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.6455,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6711,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6369,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the formula for kinetic energy?",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.5948,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "State the law of conservation of energy.",
+      "similarity_score": 0.7554,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "similarity_score": 0.7016,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "What is the molecular formula of water?",
+      "similarity_score": 0.6436,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.6822,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.5991,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.6192,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.6357,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.5434,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6655,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.7585,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.748,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.7294,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.7317,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6208,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6072,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.7138,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.7034,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6737,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6155,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.6506,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6229,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6038,
+      "is_replica": false
+    },
+    {
+      "question1": "Express the kinetic energy of a moving object in terms of mass and velocity.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.5727,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "similarity_score": 0.8215,
+      "is_replica": true
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "What is the molecular formula of water?",
+      "similarity_score": 0.681,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.7158,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.6547,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.7156,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.7363,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.6476,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6876,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.709,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.806,
+      "is_replica": true
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.7486,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.7511,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6664,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6485,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.7491,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.7214,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6923,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6625,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.6995,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6776,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6615,
+      "is_replica": false
+    },
+    {
+      "question1": "State the law of conservation of energy.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6467,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "What is the molecular formula of water?",
+      "similarity_score": 0.619,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.6446,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.599,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.6694,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.7131,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.6137,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6002,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.6696,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.6702,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.7474,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.6698,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6177,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.58,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6857,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6557,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6282,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6327,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.6545,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6523,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.62,
+      "is_replica": false
+    },
+    {
+      "question1": "Energy can neither be created nor destroyed, only transformed from one form to another.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6052,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Write the chemical formula for H2O.",
+      "similarity_score": 0.8942,
+      "is_replica": true
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.8846,
+      "is_replica": true
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.6432,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.6432,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.5988,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6769,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.6274,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.6375,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.5997,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.6252,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.7149,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.643,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6818,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6457,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6234,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6564,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.629,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6465,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.7533,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the molecular formula of water?",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.7137,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "What are the constituent elements of water molecule?",
+      "similarity_score": 0.8059,
+      "is_replica": true
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.6908,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.6949,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.5812,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6417,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.6589,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.6953,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.6589,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.6332,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.7546,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6646,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6635,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6709,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6079,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.634,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.6459,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6204,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6972,
+      "is_replica": false
+    },
+    {
+      "question1": "Write the chemical formula for H2O.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6776,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Define photosynthesis in plants.",
+      "similarity_score": 0.6291,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.6258,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.6009,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6185,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.5752,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.603,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.5669,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.5891,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6858,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.617,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6643,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6243,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.5884,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6751,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.6506,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6539,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.7165,
+      "is_replica": false
+    },
+    {
+      "question1": "What are the constituent elements of water molecule?",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.7168,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "Explain the process by which plants convert sunlight into chemical energy.",
+      "similarity_score": 0.8825,
+      "is_replica": true
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.8271,
+      "is_replica": true
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6252,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.5962,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.644,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.6174,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.6136,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6977,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6167,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6319,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6048,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.5773,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.7305,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.737,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.7427,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6186,
+      "is_replica": false
+    },
+    {
+      "question1": "Define photosynthesis in plants.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6325,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "How do plants make their own food using sunlight?",
+      "similarity_score": 0.8599,
+      "is_replica": true
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.6012,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.605,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.6403,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.616,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.5975,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6744,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6369,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6245,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6106,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.5877,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.702,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.7178,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.7437,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6251,
+      "is_replica": false
+    },
+    {
+      "question1": "Explain the process by which plants convert sunlight into chemical energy.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6167,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "What is the speed of light in vacuum?",
+      "similarity_score": 0.5988,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.5511,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.5685,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.5423,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.5601,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.5718,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.5491,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6006,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.5328,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.5444,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6884,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.651,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.6968,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.5911,
+      "is_replica": false
+    },
+    {
+      "question1": "How do plants make their own food using sunlight?",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6043,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "Find the velocity of electromagnetic radiation in free space.",
+      "similarity_score": 0.7844,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.661,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.6353,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.6793,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.632,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.5751,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.7031,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6425,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6567,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.5904,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.5709,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.5835,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.634,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the speed of light in vacuum?",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6129,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "State Newton's first law of motion.",
+      "similarity_score": 0.7041,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.6937,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.6678,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.5922,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.5473,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6774,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6697,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6268,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.5819,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.5864,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.5905,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.5904,
+      "is_replica": false
+    },
+    {
+      "question1": "Find the velocity of electromagnetic radiation in free space.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.5719,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "An object at rest stays at rest unless acted upon by an external force.",
+      "similarity_score": 0.7687,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.8363,
+      "is_replica": true
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6402,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.6219,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6767,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6688,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.64,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.6007,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.6199,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.5843,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.5997,
+      "is_replica": false
+    },
+    {
+      "question1": "State Newton's first law of motion.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.5977,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "What is the principle of inertia as stated by Newton?",
+      "similarity_score": 0.7571,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6179,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.56,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6312,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.6494,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6043,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.561,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.5948,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.5523,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.5467,
+      "is_replica": false
+    },
+    {
+      "question1": "An object at rest stays at rest unless acted upon by an external force.",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.5388,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "Define pH scale in chemistry.",
+      "similarity_score": 0.6202,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.5992,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6646,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.644,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6416,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "What is the function of mitochondria in cells?",
+      "similarity_score": 0.5839,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "Describe the role of mitochondria as powerhouse of the cell.",
+      "similarity_score": 0.5915,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "How do mitochondria produce ATP energy in cellular respiration?",
+      "similarity_score": 0.5704,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "What is the atomic number of carbon?",
+      "similarity_score": 0.6033,
+      "is_replica": false
+    },
+    {
+      "question1": "What is the principle of inertia as stated by Newton?",
+      "question2": "Carbon has how many protons in its nucleus?",
+      "similarity_score": 0.6169,
+      "is_replica": false
+    },
+    {
+      "question1": "Define pH scale in chemistry.",
+      "question2": "Explain the logarithmic scale used to measure acidity and alkalinity.",
+      "similarity_score": 0.8371,
+      "is_replica": true
+    },
+    {
+      "question1": "Define pH scale in chemistry.",
+      "question2": "What is the unit of electric current?",
+      "similarity_score": 0.6787,
+      "is_replica": false
+    },
+    {
+      "question1": "Define pH scale in chemistry.",
+      "question2": "Name the SI base unit for measuring flow of electric charge.",
+      "similarity_score": 0.705,
+      "is_replica": false
+    },
+    {
+      "question1": "Define pH scale in chemistry.",
+      "question2": "Current is measured in which unit in the International System?",
+      "similarity_score": 0.6552,
+      "is_replica": false
+    },
+    {
       "question1": "Define pH scale in chemistry.",
       "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.6117,
+      "similarity_score": 0.6311,
       "is_replica": false
     },
     {
       "question1": "Define pH scale in chemistry.",
       "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6057,
+      "similarity_score": 0.6254,
       "is_replica": false
     },
     {
       "question1": "Define pH scale in chemistry.",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6007,
+      "similarity_score": 0.6207,
       "is_replica": false
     },
     {
       "question1": "Define pH scale in chemistry.",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6659,
+      "similarity_score": 0.6826,
       "is_replica": false
     },
     {
       "question1": "Define pH scale in chemistry.",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6268,
+      "similarity_score": 0.6454,
       "is_replica": false
     },
     {
       "question1": "Explain the logarithmic scale used to measure acidity and alkalinity.",
       "question2": "What is the unit of electric current?",
-      "similarity_score": 0.6508,
+      "similarity_score": 0.6683,
       "is_replica": false
     },
     {
       "question1": "Explain the logarithmic scale used to measure acidity and alkalinity.",
       "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.6746,
+      "similarity_score": 0.6909,
       "is_replica": false
     },
     {
       "question1": "Explain the logarithmic scale used to measure acidity and alkalinity.",
       "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.6511,
+      "similarity_score": 0.6685,
       "is_replica": false
     },
     {
       "question1": "Explain the logarithmic scale used to measure acidity and alkalinity.",
       "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5872,
+      "similarity_score": 0.6079,
       "is_replica": false
     },
     {
       "question1": "Explain the logarithmic scale used to measure acidity and alkalinity.",
       "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5802,
+      "similarity_score": 0.6012,
       "is_replica": false
     },
     {
       "question1": "Explain the logarithmic scale used to measure acidity and alkalinity.",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.5615,
+      "similarity_score": 0.5834,
       "is_replica": false
     },
     {
       "question1": "Explain the logarithmic scale used to measure acidity and alkalinity.",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6102,
+      "similarity_score": 0.6297,
       "is_replica": false
     },
     {
       "question1": "Explain the logarithmic scale used to measure acidity and alkalinity.",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5477,
+      "similarity_score": 0.5703,
       "is_replica": false
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "Name the SI base unit for measuring flow of electric charge.",
-      "similarity_score": 0.858,
+      "similarity_score": 0.8651,
       "is_replica": true
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.8969,
+      "similarity_score": 0.902,
       "is_replica": true
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.6328,
+      "similarity_score": 0.6512,
       "is_replica": false
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6375,
+      "similarity_score": 0.6556,
       "is_replica": false
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.6246,
+      "similarity_score": 0.6434,
       "is_replica": false
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6703,
+      "similarity_score": 0.6868,
       "is_replica": false
     },
     {
       "question1": "What is the unit of electric current?",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6418,
+      "similarity_score": 0.6597,
       "is_replica": false
     },
     {
       "question1": "Name the SI base unit for measuring flow of electric charge.",
       "question2": "Current is measured in which unit in the International System?",
-      "similarity_score": 0.8352,
+      "similarity_score": 0.8434,
       "is_replica": true
     },
     {
       "question1": "Name the SI base unit for measuring flow of electric charge.",
       "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.5741,
+      "similarity_score": 0.5954,
       "is_replica": false
     },
     {
       "question1": "Name the SI base unit for measuring flow of electric charge.",
       "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.6209,
+      "similarity_score": 0.6399,
       "is_replica": false
     },
     {
       "question1": "Name the SI base unit for measuring flow of electric charge.",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.573,
+      "similarity_score": 0.5943,
       "is_replica": false
     },
     {
       "question1": "Name the SI base unit for measuring flow of electric charge.",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.599,
+      "similarity_score": 0.619,
       "is_replica": false
     },
     {
       "question1": "Name the SI base unit for measuring flow of electric charge.",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5895,
+      "similarity_score": 0.61,
       "is_replica": false
     },
     {
       "question1": "Current is measured in which unit in the International System?",
       "question2": "What is the function of mitochondria in cells?",
-      "similarity_score": 0.556,
+      "similarity_score": 0.5782,
       "is_replica": false
     },
     {
       "question1": "Current is measured in which unit in the International System?",
       "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.5736,
+      "similarity_score": 0.5949,
       "is_replica": false
     },
     {
       "question1": "Current is measured in which unit in the International System?",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.568,
+      "similarity_score": 0.5896,
       "is_replica": false
     },
     {
       "question1": "Current is measured in which unit in the International System?",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6137,
+      "similarity_score": 0.633,
       "is_replica": false
     },
     {
       "question1": "Current is measured in which unit in the International System?",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.5877,
+      "similarity_score": 0.6083,
       "is_replica": false
     },
     {
       "question1": "What is the function of mitochondria in cells?",
       "question2": "Describe the role of mitochondria as powerhouse of the cell.",
-      "similarity_score": 0.9164,
+      "similarity_score": 0.9205,
       "is_replica": true
     },
     {
       "question1": "What is the function of mitochondria in cells?",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.8976,
+      "similarity_score": 0.9027,
       "is_replica": true
     },
     {
       "question1": "What is the function of mitochondria in cells?",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6496,
+      "similarity_score": 0.6672,
       "is_replica": false
     },
     {
       "question1": "What is the function of mitochondria in cells?",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6355,
+      "similarity_score": 0.6538,
       "is_replica": false
     },
     {
       "question1": "Describe the role of mitochondria as powerhouse of the cell.",
       "question2": "How do mitochondria produce ATP energy in cellular respiration?",
-      "similarity_score": 0.8461,
+      "similarity_score": 0.8538,
       "is_replica": true
     },
     {
       "question1": "Describe the role of mitochondria as powerhouse of the cell.",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.6188,
+      "similarity_score": 0.6378,
       "is_replica": false
     },
     {
       "question1": "Describe the role of mitochondria as powerhouse of the cell.",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6231,
+      "similarity_score": 0.6419,
       "is_replica": false
     },
     {
       "question1": "How do mitochondria produce ATP energy in cellular respiration?",
       "question2": "What is the atomic number of carbon?",
-      "similarity_score": 0.644,
+      "similarity_score": 0.6618,
       "is_replica": false
     },
     {
       "question1": "How do mitochondria produce ATP energy in cellular respiration?",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.6301,
+      "similarity_score": 0.6486,
       "is_replica": false
     },
     {
       "question1": "What is the atomic number of carbon?",
       "question2": "Carbon has how many protons in its nucleus?",
-      "similarity_score": 0.8755,
+      "similarity_score": 0.8817,
       "is_replica": true
     }
   ]
